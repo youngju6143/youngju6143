@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I'm YoungJu </h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffcfe4&height=200&section=header&text=welcome!&fontSize=90&animation=twinkling&fontColor=ffffff" />
+</p>
 
 <h2 align="center">🍀 STACKS</h2>
 
