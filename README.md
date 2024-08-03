@@ -38,4 +38,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/youngju6143@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://0ju428.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-A9BCF5?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"&link=https://0ju428.tistory.com/"/>
+</a>
 </p>
+
