@@ -43,5 +43,9 @@
 <a href="https://0ju428.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-A9BCF5?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"&link=https://0ju428.tistory.com/"/>
 </a>
+  
+<a href="https://0ju428.notion.site/1127763dd03a808497bddd20c61afec2?pvs=4/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
 </p>
 
