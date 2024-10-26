@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img 
+    <img
       src="https://render.gitanimals.org/farms/youngju6143"
       width="600"
       height="300"
