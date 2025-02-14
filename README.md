@@ -27,7 +27,6 @@
   <li>GDG on Campus : KHU 1기 WEB Developer<sub> 2024.09 ~ now </sub>  </li>
   <li>예술적인 소프트웨어 : 웹/앱 부문 대상 🏆 <sub> 2024.10.04</sub>  </li>
   <li>구름톤 유니브 3기 Front Member & Organizer<sub> 2024.08 ~ 2024.11 </sub> </li>
-  <li>KHUDA 6th<sub> 2024.07 ~ 2024.11</sub> </li>
   <li>UMC 5th WEB Developer<sub> 2023.09 ~ 2024.02</sub> </li>
 </ul>
   
