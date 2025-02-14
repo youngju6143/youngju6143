@@ -12,14 +12,6 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
-  
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/youngju6143"
-    width="400"
-    height="300"
-  />
-</a>
 
 <h2>🍀 Experinence & Award </h2>
 <ul>
@@ -29,6 +21,16 @@
   <li>구름톤 유니브 3기 Front Member & Organizer<sub> 2024.08 ~ 2024.11 </sub> </li>
   <li>UMC 5th WEB Developer<sub> 2023.09 ~ 2024.02</sub> </li>
 </ul>
+
+<div>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/youngju6143"
+      width="400"
+      height="300"
+    />
+  </a>
+</div>
   
 <div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungju6143&count_bg=%23FFCED8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=total&edge_flat=false"/></a>
