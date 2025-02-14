@@ -4,13 +4,22 @@
 
 <p>
   <img src="https://img.shields.io/badge/youngju6143@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://0ju428.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-A9BCF5?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"&link=https://0ju428.tistory.com/"/>
+  <a href="https://0ju428-blog.vercel.app/">
+    <img src="https://img.shields.io/badge/BLOG-A9BCF5?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"&link=https://0ju428.tistory.com/"/>
   </a>
+  
   <a href="http://0ju428.notion.site">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/youngju6143"
+    width="400"
+    height="300"
+  />
+</a>
 
 <h2>🍀 Experinence & Award </h2>
 <ul>
@@ -21,14 +30,6 @@
   <li>KHUDA 6th<sub> 2024.07 ~ 2024.11</sub> </li>
   <li>UMC 5th WEB Developer<sub> 2023.09 ~ 2024.02</sub> </li>
 </ul>
-  
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/youngju6143"
-    width="400"
-    height="300"
-  />
-</a>
   
 <div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungju6143&count_bg=%23FFCED8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=total&edge_flat=false"/></a>
