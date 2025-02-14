@@ -1,7 +1,4 @@
 <h1 align="">Hello, I'm YoungJu </h1>
-<p align="">
-  <img width="50%" src="https://capsule-render.vercel.app/api?type=soft&color=ffcfe4&height=200&section=header&text=welcome!&fontSize=90&animation=twinkling&fontColor=ffffff" />
-</p>
 
 <h2>🍀 ABOUT ME</h2>
 
@@ -15,43 +12,16 @@
   </a>
 </p>
 
-<h2 align="">🍀 STACKS</h2>
-
-<p align="">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-
-<h2>🍀 COWORK TOOLS</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
-
-
+<h2>🍀 Experinence & Award </h2>
+<ul>
+  <li>Depromeet 16기 WEB Developer<sub> 2025.01 ~ now </sub>  </li>
+  <li>GDG on Campus : KHU 1기 WEB Developer<sub> 2024.09 ~ now </sub>  </li>
+  <li>예술적인 소프트웨어 : 웹/앱 부문 대상 🏆 <sub> 2024.10.04</sub>  </li>
+  <li>구름톤 유니브 3기 Front Member & Organizer<sub> 2024.08 ~ 2024.11 </sub> </li>
+  <li>KHUDA 6th<sub> 2024.07 ~ 2024.11</sub> </li>
+  <li>UMC 5th WEB Developer<sub> 2023.09 ~ 2024.02</sub> </li>
+</ul>
+  
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/youngju6143"
