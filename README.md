@@ -10,7 +10,7 @@
   <a href="http://0ju428.notion.site">
     <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
- <a href="[http://0ju428.notion.site](https://drive.google.com/drive/u/0/folders/1_9Ip33TAKcuIT7iYZqwkux9tjx0LiT7l)">
+ <a href="https://drive.google.com/drive/u/0/folders/1_9Ip33TAKcuIT7iYZqwkux9tjx0LiT7l">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=files&logoColor=white" />
   </a>
 </p>
