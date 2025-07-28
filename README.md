@@ -21,7 +21,7 @@
     
   <li>Depromeet 17기 Manager<sub> 2025.05 ~ now </sub>  </li>
   <li>Depromeet 16기 WEB Developer<sub> 2025.01 ~ 2025.04 </sub>  </li>
-  <li>제 6대 소프트웨어융합대학 학생회 교육정책팀장 <sub> 2025.01 ~ now </sub>  </li>
+  <li>제6대 소프트웨어융합대학 학생회 교육정책팀장 <sub> 2025.01 ~ now </sub>  </li>
   <li>GDG on Campus : KHU 1기 WEB Developer<sub> 2024.09 ~ 2025.8 </sub>  </li>
   <li>예술적인 소프트웨어 : 웹/앱 부문 대상 🏆 <sub> 2024.10.04</sub>  </li>
   <li>구름톤 유니브 3기 Front Member & Manager<sub> 2024.08 ~ 2024.11 </sub> </li>
