@@ -16,7 +16,7 @@
 </p>
 
 
-<h2>🍀 Experinence & Award </h2>
+<h2>🍀 Experience & Award </h2>
 <ul>
     
   <li>Depromeet 17기 Manager<sub> 2025.05 ~ now </sub>  </li>
