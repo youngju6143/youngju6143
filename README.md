@@ -16,6 +16,11 @@
 </p>
 
 
+<h2>🍀 Carrer </h2>
+<ul>
+  <li>바이트웍스 Frontend developer<sub> 2025.08 ~ now </sub>  </li>
+</ul>
+
 <h2>🍀 Experience & Award </h2>
 <ul>
     
