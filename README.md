@@ -16,7 +16,7 @@
 </p>
 
 
-<h2>🍀 Carrer </h2>
+<h2>🍀 Career </h2>
 <ul>
   <li> <strong>바이트웍스</strong> Frontend Developer Internship<sub> 2025.08 ~ now </sub>  </li>
 </ul>
