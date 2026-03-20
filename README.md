@@ -22,16 +22,15 @@
 </ul>
 
 <h2>🍀 Experience & Award </h2>
-<ul>
-    
-  <li>Depromeet 17기 Manager<sub> 2025.05 ~ 2025.11 </sub>  </li>
-  <li>Depromeet 16기 WEB Developer<sub> 2025.01 ~ 2025.04 </sub>  </li>
-  <li>제6대 소프트웨어융합대학 학생회 교육정책팀장 <sub> 2025.01 ~ 2025.12 </sub>  </li>
-  <li>GDG on Campus : KHU 1기 WEB Developer<sub> 2024.09 ~ 2025.8 </sub>  </li>
-  <li>예술적인 소프트웨어 : 웹/앱 부문 대상 🏆 <sub> 2024.10.04</sub>  </li>
-  <li>구름톤 유니브 3기 Front Member & Manager<sub> 2024.08 ~ 2024.11 </sub> </li>
-  <li>UMC 5th WEB Developer<sub> 2023.09 ~ 2024.02</sub> </li>
-</ul>
+
+  - [Depromeet](https://github.com/depromeet) 17기 Manager<sub> 2025.05 ~ 2025.11 </sub>  
+  - [Depromeet](https://github.com/depromeet) 16기 WEB Developer<sub> 2025.01 ~ 2025.04 </sub> 
+  - 제6대 소프트웨어융합대학 학생회 교육정책팀장 <sub> 2025.01 ~ 2025.12 </sub>
+  - [GDG on Campus : KHU](https://github.com/GDG-on-Campus-KHU) 1기 WEB Developer<sub> 2024.09 ~ 2025.8 </sub>
+  - 예술적인 소프트웨어 : 웹/앱 부문 대상 🏆 <sub> 2024.10.04</sub>
+  - [구름톤 유니브](https://github.com/9oormthon-univ) 3기 Front Member & Manager<sub> 2024.08 ~ 2024.11 </sub>
+  - [N.E.T](https://github.com/NET-Organization) 회장 <sub> 2024.01 ~ 2024.12</sub>
+  - UMC 5th WEB Developer<sub> 2023.09 ~ 2024.02</sub>
 
 <div>
   <a href="https://github.com/devxb/gitanimals">
