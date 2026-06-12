@@ -18,7 +18,7 @@
 
 <h2>🍀 Career </h2>
 <ul>
-  <li> <strong>바이트웍스</strong> Frontend Developer Internship<sub> 2025.08 ~ now </sub>  </li>
+  <li> <strong>byteworx</strong> Frontend Developer<sub> 2025.08 ~ now </sub>  </li>
 </ul>
 
 <h2>🍀 Experience & Award </h2>
